@@ -5,7 +5,7 @@ Final Project for coding for digital art
 
 
 ## Video Explaination
-
+https://youtu.be/Pam0w46PGzY
 ## GitHun Repository
 https://github.com/CarlosJMujica/Final_Project
 
@@ -45,3 +45,7 @@ Button B - fill the screen with blue
 ## Saving
 
 When closing the program you may choose where you want to save the drawing in png format.
+
+Source I used for Help 
+
+https://pythonprogramming.altervista.org/pygame-draw-app-with-animation/

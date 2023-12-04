@@ -72,7 +72,7 @@ def main():
         pen.draw(screen, px, py)
 
         pygame.display.update()
-        clock.tick(90000)
+        clock.tick(900000)
 
     Tk().withdraw()
     file_path = filedialog.asksaveasfilename(defaultextension=".png", filetypes=[("PNG files", "*.png")])
